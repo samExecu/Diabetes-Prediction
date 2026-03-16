@@ -2,6 +2,8 @@
 
 A simple web app that takes some basic health information about a person and tells you whether they might have diabetes or not. It was built using Python and Streamlit.
 
+**Live Demo:** [diabetes-prediction-practice.streamlit.app](https://diabetes-prediction-practice.streamlit.app/)
+
 ---
 
 ## Table of Contents
